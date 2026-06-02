@@ -16,7 +16,7 @@
 
 ## Communication:
 * [Discord](https://discord.gg/KM9rTBGemX)
-* Teacher emails: jherrman@redhat.com, TBA
+* Teacher emails: jherrman@redhat.com
 
 ## Lecture Overview:
 The lecture overview is only tentative.
@@ -27,6 +27,8 @@ The lecture overview is only tentative.
 * A day in the life of a technical writer
 * Types of technical documentation and their specifics
 * Target audience, grading, and using AI tools in this course
+* [Slides from Day 1](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/slides/2026-Day-1_Introduction%20to%20technical%20writing%20-%20BUT%202026.pdf)
+* [Homework from Day 1](https://docs.google.com/document/d/1FdSam7ukJcyGwaDL08xkv33J0zJjC5Xp8iz4XMcuATA/copy)
 
 ### 2. Style I:
 * Comparison of writing styles, objectives of technical writing style: Accessibility, Readability, Searchability
