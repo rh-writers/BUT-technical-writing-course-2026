@@ -33,14 +33,21 @@ The lecture overview is only tentative.
 ### 2. Style I:
 * Comparison of writing styles, objectives of technical writing style: Accessibility, Readability, Searchability
 * Usability best practices
+* [Slides from Day 2](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/slides/2026-Day-2_Tech%20writing%20style%20I%20-%20BUT%202026.pdf)
+* [Homework from Day 2](https://docs.google.com/document/d/1xsa2l2orwPCW8mjHpxyrDxkqPlSpgmy_p8LXs3KLA94/copy)
 
 ### 3. Style II:
 * Minimalism, modularity and structure
 * User focus and information flow
 * Style guides
+* [Slides from Day 3](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/slides/2026-Day-3_Tech%20writing%20style%20II%20-%20BUT%20Spring%202026.pdf)
+* [Homework from Day 3](https://www.youtube.com/watch?v=7iWUSetbaos)
 
 ### 4. Soft skills:
 * Empathy, ethics, cultural awareness, communication skills, curiosity, proactivity, editorial skills, time management
+* [Slides from Day 4 morning](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/slides/2026_BUT%20SoftSkills%202026_morning%20session.pdf)
+* [Slides from Day 4 afternoon](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/slides/2026_BUT%20SoftSkills%202026_afternoon%20exercises.pdf)
+* [Homework from Day 4](https://www.youtube.com/watch?v=Q2yG142cyNg)
 
 ### 5. Hard skills:
 * Definition of hard skills in technical writing, why we need them
