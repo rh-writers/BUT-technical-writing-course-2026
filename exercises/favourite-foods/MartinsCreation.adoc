@@ -2,7 +2,7 @@
 
 .Requirements
 ----
-1 Bag of precoocked rice
+1 Bag of parboiled rice
 1 Can of meat with juice
 Mayonaise
 Teriyaky sauce
@@ -10,6 +10,9 @@ Garlic powder
 Salt & Pepper
 Spoon
 ----
+
+image:https://pt-servis.cz/wp-content/uploads/2021/02/MeiNing_veprove_maso_400g_WEB.jpg[Can of meat,200,200]
+image:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC1sJc8SFIWh9qPDDRSFD9agctguAkGoKVtw&s[BagOfParboiledRice,200,300]
 
 === Preperation
 . Fill a small pot with ~1l of water
@@ -29,4 +32,4 @@ Spoon
 . Mix it together with spoon
 
 === Finished product
-image::https://photos.fife.usercontent.google.com/pw/AP1GczMUim7iqODC3K1hiDjooCQ9_AaNz0HcF3hJMhugfzeHnF6nKbM2-itw=w429-h947-s-no-gm?authuser=0[Rice, 300,300]
+image::IMG20260501181540.jpg[Rice, 300,800]
