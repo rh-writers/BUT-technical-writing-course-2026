@@ -11,8 +11,8 @@ Salt & Pepper
 Spoon
 ----
 
-image:https://pt-servis.cz/wp-content/uploads/2021/02/MeiNing_veprove_maso_400g_WEB.jpg[Can of meat,200,200]
 image:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC1sJc8SFIWh9qPDDRSFD9agctguAkGoKVtw&s[BagOfParboiledRice,200,300]
+image:https://pt-servis.cz/wp-content/uploads/2021/02/MeiNing_veprove_maso_400g_WEB.jpg[Can of meat,200,200]
 
 === Preperation
 . Fill a small pot with ~1l of water
