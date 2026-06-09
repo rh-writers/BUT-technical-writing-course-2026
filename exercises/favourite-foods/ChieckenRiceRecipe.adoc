@@ -1,3 +1,7 @@
+= Chicken and rice 
+
+quick and nutritious meal
+
 == Ingridients 
 ----
   1 Chicken breast, 100grams of jasmine rice, salt, paper, olive oil.
