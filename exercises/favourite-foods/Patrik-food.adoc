@@ -19,7 +19,7 @@ Rice +
 2. Add as much water, that it is slightly above rice +
 3. Plug rice cooker in power outlet +
 4. Turn on the rice cooker +
-5. Let it cook for so long till the red light turns green +
+5. Let it cook for so long till the rice cooker signals that its done cooking +
 6. Take out the cookers bowl with rice +
 7. Put cooked Rice on plate +
 
@@ -33,5 +33,5 @@ Chicken Breast +
 7. Let chicken breast cook for 5 minutes on one side +
 8. Flip the chicken breast and let it cook for another 5 minutes +
 9. After its cooked, turn off the stove +
-10. Put cooked chicken breast on plate +
+10. Put cooked chicken breast on plate with rice +
 11. Enjoy +
