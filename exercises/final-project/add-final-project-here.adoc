@@ -1,0 +1,1 @@
+Add directories with files for your final project into this folder.
