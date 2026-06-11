@@ -44,5 +44,7 @@ A step-by-step guide on becoming a technical writer
 
 *** 4.4.2 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-4-blueshoe.adoc#442-github-git-implementation[GitHub git implementation]
 
+5. https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/blu.shu.conc.adoc#5-conclusion[Conclusion]
+
 
 created by team BlueShoe
