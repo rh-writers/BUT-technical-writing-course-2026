@@ -18,9 +18,6 @@
 * Imperative
 * Without emotions
 
-=== Table of contents
-* Introduction
-* Focus
 
 = How to become a technical writer step-by-step
 == Avoid these common mistakes:
