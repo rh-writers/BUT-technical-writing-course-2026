@@ -27,7 +27,7 @@ Documents should be readable by all readers:
 
 ==== Findability
 
-=====External 
+===== External 
 
 * Relevance +
 * Focus on quality +
