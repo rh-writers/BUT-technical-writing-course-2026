@@ -8,3 +8,6 @@
 | Šimon Cibulka | Writer, Product Manager, Program Manager
 | David Nečas | Product Manager, Writer
 |===
+
+
+include::skills.adoc[]
