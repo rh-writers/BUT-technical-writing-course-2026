@@ -1,2 +1,13 @@
-= Chapter 1: Prerequisites 
+= 1: Prerequisites 
 
+Tools required for technical writing and their explanations. 
+
+The bare essential requirements for technical writing are:
+
+* Computer or laptop
+* Text editor
+* Version control software
+
+== 1.1: Text Editors
+
+Text editors are differ
