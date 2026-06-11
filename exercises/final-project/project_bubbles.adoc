@@ -1,1 +1,80 @@
-== Guide to Technical Writing
+= Guide to Technical Writing
+
+
+== What is technical writing?  
+----
+Your aim is to understand how product works, and help user to achieve their goal. 
+Technical writing is used in manuals, guides, solutions, troubleshooting. 
+ 
+Understand the subject → provide simple and imformative explanation to save work and stress for the readers.
+
+
+----
+
+== Technical docs style ≠ general writing style 
+
+----
+* Focus on readability, findability, accessibility, and ultimately the user 
+ experience 
+ * Some best practices: 
+ * Use simple, translation-friendly language. 
+ * Use visual structure and formatting to make the text easy to read. 
+ * Focus on helping the reader accomplish a specific goal.
+----
+
+[cols="1,1"]
+|===
+|WYSIWYG
+|Docs as code
+|MS wWord, Libre Office, Google Docs
+|AciiDoc, DocBook, MarkDown
+|===
+
+= Minimalism 
+----
+* User focus: action orientation 
+
+* No fluff 
+
+* Findability 
+
+* Titles, headings 
+
+* Error recovery, verification, troubleshooting 
+----
+== Simple language 
+---- 
+present (SVO) 
+
+* Imperative 
+
+* Infinitive 
+
+* Active voice 
+----
+[.lead]
+Where to practise: 
+
+As a beginner you can explore and share your ideas and writings on these platforms: 
+
+https://hashnode.com/[Hashnode] 
+
+https://dev.to/[Dev.to]
+
+= What is important for you as a future technical writer:  
+
+* Doing your research, you have to know what you are writing about (read up on the subject matter). 
+
+* As a TW you are not working alone! Talking to your colleagues is mandatory, because they give you feedback that is needed. 
+
+* Create user personas – fictional characters that represent a user (Do not forget that you are going to be a content creator) 
+
+== Technical writing skills: 
+
+[cols="3,2"]
+|===
+|Writing and editing
+|Strong writing and meticulous editing skills are crucial for producing clear, concise, and error-free documentation. 
+|Conveying information efectively
+|They excel in breaking down complex information into understandable, user-friendly content. 
+|===
