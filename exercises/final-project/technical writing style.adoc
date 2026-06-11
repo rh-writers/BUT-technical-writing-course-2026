@@ -1,7 +1,7 @@
 = Technical writing style
 === Purpose
 
-Used for translation of complex information into easily readable content + 
+Used for translation of complex information into easily readable content. + 
 
 === Style 
 
@@ -13,7 +13,7 @@ Used for translation of complex information into easily readable content +
 
 === Objectives
 
-==== Accesibility
+==== Accessibility
 
 Documents should be readable by all readers: 
 
@@ -45,7 +45,7 @@ Documents should be readable by all readers:
 
 * Structured text +
 
-====== Titles
+===== Titles
 
 * Clear, descriptive +
 * Goal oriented
