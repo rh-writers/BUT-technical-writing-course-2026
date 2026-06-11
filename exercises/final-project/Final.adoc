@@ -6,7 +6,7 @@ we first need to define what is the purpose of technical writing.
 
 == It's purpose
 * Help readers achieve their goal whether it is to do or learn something.
-* To be easily readable and accesible. Minimalism is the key.
+* To be easily readable and accesible. Minimalism is key.
 * To be accurate and clear about what actions to take to achieve the desired outcome.
  
 
