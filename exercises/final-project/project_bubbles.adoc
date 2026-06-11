@@ -22,13 +22,6 @@ Understand the subject → provide simple and imformative explanation to save wo
  * Focus on helping the reader accomplish a specific goal.
 ----
 
-[cols="1,1"]
-|===
-|WYSIWYG
-|Docs as code
-|MS wWord, Libre Office, Google Docs
-|AciiDoc, DocBook, MarkDown
-|===
 
 = Minimalism 
 ----
@@ -77,4 +70,38 @@ https://dev.to/[Dev.to]
 |Strong writing and meticulous editing skills are crucial for producing clear, concise, and error-free documentation. 
 |Conveying information efectively
 |They excel in breaking down complex information into understandable, user-friendly content. 
+|===
+
+== Tools for teamwork
+
+[grid=cols]
+|===
+|WYSIWYG |Docs as code
+
+|Text processor (MS Word, 
+LibreOffice Writer, Google 
+Docs…)
+|Markup language (AsciiDoc, 
+DocBook XML, Markdown…) + 
+Text editor/IDE (Vim, VS Code, 
+IntelliJ…)
+
+| Granular control of all visual 
+properties of all content 
+elements
+|Determines types of content 
+elements -> Visual properties 
+rendered through stylesheets
+
+|Difficult to standardize, export, 
+and version control
+|Easier standardization, exporting, 
+and version control
+
+| Best for smaller doc sets with 
+limited contributors
+|Best for smaller doc sets with 
+limited contributors
+|Best for larger doc sets with 
+more contributors
 |===
