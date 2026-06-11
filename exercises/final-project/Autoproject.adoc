@@ -4,10 +4,10 @@ The goal of technical writers is to *help readers achive their goals*, by creati
 
 
 == 1. Prerequisites:
-- educational foundation
-- technical and tooling proficiency
-- tendency to minimalism
-- soft skills and communication
+  - educational foundation
+  - technical and tooling proficiency
+  - tendency to minimalism
+  - soft skills and communication
 
 
 == 2. Procedure:
