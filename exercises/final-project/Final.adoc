@@ -4,9 +4,9 @@
 To become a technical writer 
 we first need to define what is the purpose of technical writing.
 
-== It's purpose
+== Its purpose
 * Help readers achieve their goal whether it is to do or learn something.
-* To be easily readable and accesible. Minimalism is key.
+* To be easily readable and accessible. Minimalism is key.
 * To be accurate and clear about what actions to take to achieve the desired outcome.
  
 
@@ -69,7 +69,7 @@ Documentation projects often involve cooperation with others. Effective communic
 == Job Market and Opportunities
 Technical writing is a rapidly growing field. Companies look for writers who can bridge the gap between complex engineering concepts and end-users.
 
-* Avarege pay in Brno (2026): 55 000 - 70 000 Kč
+* Averege pay in Brno (2026): 55 000 - 70 000 Kč
 * Many tech companies regularly post open positions on major job portals
 * link:https://www.jobs.cz/prace/technical-writer/[Jobs.cz], link:https://cz.jooble.org/pr%C3%A1ce-technical-writer[Jooble]
 
@@ -154,10 +154,10 @@ Documents should be readable by all readers:
 
 == Style guides
 
-Microsoft writing style guide is considered the best for beginners.
+Microsoft writing style guide is considered the best for beginners. Other guides you can choose from:
 
-* *IBM Style* – Comprehensive and professional, but less beginner-friendly. link:https://learn.microsoft.com/en-us/style-guide/[link]
-* *SUSE Documentation Style Guide* – Fairly welcoming to new writers. link:https://developers.google.com/style/[link]
-* *Apple Style Guide* – Easy to read and well organized, but primarily aimed at Apple platforms. link:https://www.ibm.com/docs/en/ibm-style/[link]
-* *Microsoft Writing Style Guide* – One of the most beginner-friendly guides, emphasizing clear, conversational language. This document is written in it for example. link:https://developer.apple.com/design/human-interface-guidelines/[link] 
-* *Google Developer Documentation Style Guide* – Very approachable for new technical writers, modern writing principles. link:https://documentation.suse.com/[link]
+* *IBM Style* – link:https://learn.microsoft.com/en-us/style-guide/[link]
+* *SUSE Documentation Style Guide* – link:https://developers.google.com/style/[link]
+* *Apple Style Guide* – link:https://www.ibm.com/docs/en/ibm-style/[link]
+* *Google Developer Documentation Style Guide* – link:https://documentation.suse.com/[link]
+* *Microsoft Writing Style Guide* – link:https://developer.apple.com/design/human-interface-guidelines/[link] 
