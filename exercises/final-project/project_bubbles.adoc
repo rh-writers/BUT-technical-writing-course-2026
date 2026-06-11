@@ -3,7 +3,7 @@
 
 == What is technical writing?  
 
-Your aim is to understand how product works, and help user to achieve their goal. 
+The aim of technical writing is to understand how product works, and help user to achieve their goal. 
 Technical writing is used in manuals, guides, solutions, troubleshooting. 
  
 Understand the subject → provide simple and imformative explanation to save work and stress for the readers.
@@ -115,7 +115,7 @@ To stay productive during work,
 Also, ask for help as soon as you need it.
 
 = Minimalism 
-----
+
 * User focus: action orientation 
 
 * No fluff 
@@ -125,9 +125,9 @@ Also, ask for help as soon as you need it.
 * Titles, headings 
 
 * Error recovery, verification, troubleshooting 
-----
+
 == Simple language 
----- 
+ 
 present (SVO) 
 
 * Imperative 
@@ -135,7 +135,7 @@ present (SVO)
 * Infinitive 
 
 * Active voice 
-----
+
 [.lead]
 Where to practise: 
 
@@ -160,9 +160,9 @@ https://dev.to/[Dev.to]
 |Writing and editing
 |Strong writing and meticulous editing skills are crucial for producing clear, concise, and error-free documentation 
 |Conveying information efectively
-|They excel in breaking down complex information into understandable, user-friendly content
+|Excel in breaking down complex information into understandable, user-friendly content
 |Design
-|They utilize design skills to create documents that are visually appealing and easy to navigate
+|Utilize design skills to create documents that are visually appealing and easy to navigate
 |Use of technical tools
 |Mastery over documentation tools and content management systems is essential for efficient document creation and management
 |Research and audience analysis
