@@ -1,0 +1,4 @@
+= Technical writing basics
+In this document we will give you a rundown of the basics of technical writing
+
+created by team BlueShoe
