@@ -20,4 +20,29 @@ A step-by-step guide on becoming a technical writer
 
 2. https://github.com/rh-writers/BUT-technical-writing-course-2026/edit/blue-shoe-branch/exercises/final-project/part2.adoc#2-expectations[Expectations]
 
+3. https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-3.1-blueshoe.adoc#3-guide[Guide]
+
+** 3.1 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-3.1-blueshoe.adoc#31-preparation-and-getting-into-technical-writing[Preparation and getting into technical writing]
+
+** 3.2 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part3.2.adoc#32-soft-skills[Soft Skills]
+
+*** 3.2.1 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part3.2.1..adoc#321-interacting-with-other-writers[interacting with other writers]
+
+4. https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-4-blueshoe.adoc#4-software-usage[Software usage]
+
+** 4.1 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-4-blueshoe.adoc#41-git[Git]
+
+** 4.2 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-4-blueshoe.adoc#42-docs-as-text-editors[Docs as text editors]
+
+** 4.3 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-4-blueshoe.adoc#43-asciidoc [AsciiDoc]
+
+*** 4.3.1 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-4-blueshoe.adoc#431-basics-of-asciidoc[Basics of AsciiDoc]
+
+** 4.4 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-4-blueshoe.adoc#44-github[GitHub]
+
+*** 4.4.1 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-4-blueshoe.adoc#441-github-text-editor[GitHub text editor]
+
+*** 4.4.2 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-4-blueshoe.adoc#442-github-git-implementation[GitHub git implementation]
+
+
 created by team BlueShoe
