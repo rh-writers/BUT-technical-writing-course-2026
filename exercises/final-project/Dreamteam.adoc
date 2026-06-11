@@ -2,8 +2,8 @@
 
 == Roles
 
-* Writer = Matúš Cipov, Alan Beneš, Patrik Doležal, Šimon Cibulka, David Nečas
+* Writers = Matúš Cipov, Alan Beneš, Patrik Doležal, Šimon Cibulka, David Nečas
 * Product manager = David Nečas
 * Program manager = Alan Beneš
 * Presenter = Patrik Doležal
-negr
+
