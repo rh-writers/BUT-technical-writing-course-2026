@@ -3,7 +3,6 @@
 When you have job as a technical writer you will have to comunicate with your coworkers.
 
 * while speaking with coworkers be polite
-* before you ask try to educate yourself with information you have access to
 * ask questions when you do not understand the subject you are writing about
 * while asking be direct 
 * when given some feedback do not make it personal
