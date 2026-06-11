@@ -90,9 +90,13 @@ Technical writing is a rapidly growing field. Companies look for writers who can
 
 === Purpose
 Translate complex information into easily readable content 
-=== Style 
-* Brief and standardized 
-=== Language 
+
+=== Style
+
+* Brief and standardized
+
+=== Language
+
 * Simple, without jargon 
 
 === Objectives
