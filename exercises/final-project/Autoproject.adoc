@@ -48,10 +48,12 @@ Follow a specific style guide so your documentation is:
 
 *3.4 Style guides:*
 
+Examples:
+
 . Apple style guide
 . Google style guide
 . Microsoft style guide
-. etc.
+
 
 
 == 4. Communication and research:
@@ -73,7 +75,7 @@ The goal is to gather accurate information and share it clearly with the intende
 
 *4.2 Research*
 
-use trusted sources such as:
+Use trusted sources such as:
 
 - official documentation
 - technical articles
@@ -83,7 +85,15 @@ use trusted sources such as:
 
 == 5. Tools:
 
-- For writing use Asciidoc or Markdown
+- for writing use Asciidoc or Markdown
+
+== 6. Where not to use technical writing
+
+- marketing
+- culinary industry
+- sports
+- entertainment
+- social work
 
 
 
