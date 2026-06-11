@@ -8,6 +8,6 @@ The bare essential requirements for technical writing are:
 * Text editor
 * Version control software
 
-== 1.1: Text Editors
+== 1.1. Text Editors
 
-Text editors are differ
+Text editors are differentiated by 
