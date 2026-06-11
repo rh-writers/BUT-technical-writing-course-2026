@@ -27,14 +27,12 @@
 * **Overuse of passive voice:** Mainly aim for the active voice to make your documentation more direct and clear.
 * Self-referential text: Avoid meta-phrases like "This document describes..." or "In this section, I will show..."
 * Anthropomorphism: Do not attribute human emotions or behaviors to software (avoiding phrases like "the program became confused").
-* Inconsistent formatting: Watch out for formatting consistency. A few submissions had fluctuating font sizes or erratic use of bold text.
-* Missing code blocks: Remember to always place terminal commands, code snippets, and GDB outputs into proper code blocks.
-* Tutorial vs. Technical writing: Some submissions read like an educational tutorial rather than professional tech writing.
-* Avoid colorful analogies: (e.g., "think of this as putting a car on a mechanic's hydraulic lift instead of driving it fast down the highway").
-* Avoid informal slang: (e.g., using terms like "buggy program").
-* Pronoun & Tone : Avoid first-person plural or conversational phrasing like "We use next to execute a line..." or "Let's use...". Use direct, imperative instructions, 2nd person.
-* Pronoun & Tone : Avoid first-person plural or conversational phrasing like "We use next to execute a line..." or "Let's use...". Use direct, imperative instructions, 2nd person.
-State the objective: Sentence structure could be inverted to better follow a "Goal-Means approach". For example phrases like "use command XY to [achieve goal]" could be better structured as "To [achieve goal], use command XY.
+* Inconsistent formatting: Watch out for formatting consistency.
+* Tutorial vs. Technical writing: Differ educational tutorial and professional tech writing.
+* Avoid colorful analogies
+* Avoid informal slang and curse words
+* Pronoun & Tone : Avoid first-person plural or conversational phrasing like "Let's use...". Use direct, imperative instructions, 2nd person.
+* State the objective: Sentence structure could be inverted to better follow a "Goal-Means approach". For example phrases like "use command XY to [achieve goal]" could be better structured as "To [achieve goal], use command XY.
 
 == Follow these human attributes:
 * Be open-minded
