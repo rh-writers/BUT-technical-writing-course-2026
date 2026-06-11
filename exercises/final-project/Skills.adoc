@@ -1,4 +1,17 @@
+== Writing skills
+Writing skills form the foundation of technical communication.
+
+=== Key writing skills 
+* using precise language
+* organizing information in a logical structure
+* consistent terminology throughout the document
+* adapting to the target audience
+* following style guides and standards
+* minimalism is key
+
 == Technical skills
+
+
 
 Technical knowledge enables accurate communication and effective collaboration with SMEs.
 
