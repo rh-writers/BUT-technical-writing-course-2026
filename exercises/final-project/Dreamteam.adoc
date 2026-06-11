@@ -4,17 +4,7 @@
 
 include::Roles&Members.adoc[Roles & Members]
 
-= Final course project
-
-== Considerations
-=== Target audience
-* Anyone who wants to become a technical writer
-
-=== Tone
-* Neutral
-* Imperative
-* Without emotions
-
+include::Finalcourseprojectinfo.adoc[Final course project info]
 
 = How to become a technical writer step-by-step
 == Avoid these common mistakes:
