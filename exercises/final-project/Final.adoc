@@ -86,7 +86,7 @@ Technical writing is a rapidly growing field. Companies look for writers who can
 | Senior Technical Writer | Setting documentation strategy, mentoring juniors, toolchain management.
 |===
 
-== Technical writing style
+= Technical writing style
 
 === Purpose
 Translate complex information into easily readable content 
