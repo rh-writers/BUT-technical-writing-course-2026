@@ -34,7 +34,7 @@ A step-by-step guide on becoming a technical writer
 
 ** 4.2 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-4-blueshoe.adoc#42-docs-as-text-editors[Docs as text editors]
 
-** 4.3 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-4-blueshoe.adoc#43-asciidoc [AsciiDoc]
+** 4.3 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-4-blueshoe.adoc#43-asciidoc[AsciiDoc]
 
 *** 4.3.1 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-4-blueshoe.adoc#431-basics-of-asciidoc[Basics of AsciiDoc]
 
