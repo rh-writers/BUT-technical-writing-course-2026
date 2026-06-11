@@ -133,7 +133,7 @@ Documents should be readable by all readers:
 
 * Structured text 
 
-====== Titles
+===== Titles
 
 * Clear, descriptive 
 * Goal oriented
