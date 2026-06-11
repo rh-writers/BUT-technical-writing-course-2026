@@ -3,7 +3,7 @@
 
 == What is technical writing?  
 
-Your aim is to understand how product works, and help user to achieve their goal. 
+The aim of technical writing is to understand how product works, and help user to achieve their goal. 
 Technical writing is used in manuals, guides, solutions, troubleshooting. 
  
 Understand the subject → provide simple and imformative explanation to save work and stress for the readers.
