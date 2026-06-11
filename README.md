@@ -70,4 +70,4 @@ The lecture overview is only tentative.
 ### 7. Final Project
 * Team-based collaborative workshop emulating the work on a documentation task from the beginning till the end
 
-https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/Auto/exercises/final-project/Autoproject.adoc [Team Auto]
+[Team Auto](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/Auto/exercises/final-project/Autoproject.adoc)
