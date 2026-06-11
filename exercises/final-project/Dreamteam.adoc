@@ -32,14 +32,14 @@
 * **Stating the objective:** Reverse the sentence structure. For example, "Use command XY to [achieve goal]" is better structured as "To [achieve goal], use command XY."
 
 == Follow these human attributes (Soft skills):
-* Be open-minded
-* Be accurate
-* Write concisely
-* Write in a beginner-friendly style
-* Be flexible and adaptable
-* Have a strong team spirit
-* Be communicative
-* Seek guidance from others
+* **Be open-minded**
+* **Be accurate**
+* **Write concisely**
+* **Write in a beginner-friendly style**
+* **Be flexible and adaptable**
+* **Have a strong team spirit**
+* **Be communicative**
+* **Seek guidance from others**
 
 == Objectives of technical writing style:
 * **Accessibility:** Comprehensible for all users.
