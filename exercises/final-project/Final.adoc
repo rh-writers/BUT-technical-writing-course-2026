@@ -68,7 +68,7 @@ Documentation projects often involve cooperation with others. Effective communic
 Technical writing is a rapidly growing field. Companies look for writers who can bridge the gap between complex engineering concepts and end-users.
 
 * Avarege pay in Brno (2026): 55 000 - 70 000 Kč
-* A lot of companies present their job offers on internet
+* Many tech companies regularly post open positions on major job portals
 * link:https://www.jobs.cz/prace/technical-writer/[Jobs.cz], link:https://cz.jooble.org/pr%C3%A1ce-technical-writer[Jooble]
 
 
