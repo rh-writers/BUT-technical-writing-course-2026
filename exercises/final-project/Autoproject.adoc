@@ -1,14 +1,14 @@
 = Become a technical writer as a student
 
 The goal of technical writers is to *help readers achive their goals*, by creating *straight forward and easy to follow documentation* for a product. When you are creating a technical documentation, think about Adam (hopeless, stressed customer, who needs help).
-
+--
 
 == 1. Prerequisites:
 - educational foundation
 - technical and tooling proficiency
 - tendency to minimalism
 - soft skills and core communication
-
+--
 
 == 2. Procedure:
 . learn the core skills (writing skills, technical understanding, research skills)
