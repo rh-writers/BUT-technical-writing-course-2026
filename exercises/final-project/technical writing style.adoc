@@ -1,7 +1,7 @@
 = Technical writing style
 === Purpose
 
-Translate complex information into easily readable content + 
+Translating complex information into easily readable content + 
 
 === Style 
 
