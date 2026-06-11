@@ -1,3 +1,4 @@
+= Essential skills
 == Writing skills
 Writing skills form the foundation of technical communication.
 
