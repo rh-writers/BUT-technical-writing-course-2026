@@ -89,11 +89,11 @@ Technical writing is a rapidly growing field. Companies look for writers who can
 == Technical writing style
 
 === Purpose
-Translate complex information into easily readable content + 
+Translate complex information into easily readable content 
 === Style 
-* Brief and standardized +
-=== Language +
-* Simple, without jargon +
+* Brief and standardized 
+=== Language 
+* Simple, without jargon 
 
 === Objectives
 
@@ -101,37 +101,37 @@ Translate complex information into easily readable content +
 
 Documents should be readable by all readers: 
 
- * Low levels of english +
- * Dissabilities +
+ * Low levels of english 
+ * Dissabilities 
 
 
 ==== Readability
 
-* Concise, consistent language +
+* Concise, consistent language 
 
-* Clear, consistent styling +
+* Clear, consistent styling 
 
-* Short sentences +
+* Short sentences 
 
 ==== Findability
 
 =====External 
 
-* Relevance +
-* Focus on quality +
-* User experience +
+* Relevance 
+* Focus on quality 
+* User experience 
 
 
 
 ===== Internal
 
-* Table of contents +
+* Table of contents 
 
-* Structured text +
+* Structured text 
 
 ====== Titles
 
-* Clear, descriptive +
+* Clear, descriptive 
 * Goal oriented
 * Audience focused 
 
