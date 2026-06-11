@@ -1,5 +1,3 @@
-= How to write correctly
-
 == Minimalism
 * Don´t overcomplicate your texts. Minimalism means using as few words as you can to transfer information.
 * Be careful about shortening your text too much, it still needs to convey the information correctly.
