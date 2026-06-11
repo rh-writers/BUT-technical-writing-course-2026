@@ -1,1 +1,26 @@
+= 4 Software Usage
+
+Closer explanation of the software used
+
+== 4.1 Git
+
+* Version control software 
+** Software used for tracking development process 
+=== 4.1.1 Git Terminology 
+* Repository - Where the project is stored
+* Commit - Changes done to project 
+* Branch - Split version of the project from the main line
+* Merging - Combining split branches into one 
+* Pull Request - Request for branches to be merged
+
+== 4.2 Docs as text editors
+* Subclass of text editors
+* What you see is not representative of the final document
+* Markup languages are used for text formatting
+
+== 4.3 AsciiDoc
+
+Markup language used in Docs as text editors 
+
+=== 4.3.1
 
