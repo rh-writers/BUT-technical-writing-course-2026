@@ -1,0 +1,8 @@
+= Dream team
+
+== roles
+
+* Writer = Matúš Cipov, Alan Beneš, Patrik Doležal, Šimon Cibulka, David Nečas
+* Product manager = David Nečas
+* Program manager = Alan Beneš
+* Presenter = Patrik Doležal
