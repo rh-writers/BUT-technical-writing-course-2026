@@ -15,3 +15,42 @@ The goal of technical writers is to *help readers achive their goals*, by creati
 . learn documentation tools
 . build a portfolio
 
+= Become a technical writer as a student
+
+The goal of technical writers is to *help readers achive their goals*, by creating *straight forward and easy to follow documentation* for a product. When you are creating technical documentation think about *Adam* (the hopeless, stressed guy, who needs help).
+
+== Prerequisites:
+- educational foundation
+- technical and tooling proficiency
+- tendency to minimalism
+- soft skills and core communication
+- user or targeted audience is the king
+
+== Writing style:
+- Technical writer should aim for straight forward documentation, without unnecessary fluff, but keeping the text accurate, clear, and effective (ACE)
+
+*Forms of tech writing:*
+
+  . Manuals, guides
+  . Solutions or troubleshooting
+  . Patch notes, release notes
+
+*Style guides:*
+- Follow a specific style guide so your documentation is:
+
+- reliable
+- consistent
+- scannable
+- findable
+
+. Apple style guide
+. Google style guide
+. Miscrosoft style guide
+
+
+== Soft skills:
+
+== Tools:
+
+
+
