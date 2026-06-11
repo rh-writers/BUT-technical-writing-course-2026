@@ -50,7 +50,7 @@ Follow a specific style guide so your documentation is:
 
 Examples:
 
-. Apple style guide
+. https://support.apple.com/guide/applestyleguide/welcome/web[Apple style guide]
 . Google style guide
 . Microsoft style guide
 
