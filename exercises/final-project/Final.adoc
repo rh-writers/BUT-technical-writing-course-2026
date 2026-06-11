@@ -1,5 +1,47 @@
 = What is technical writing?
 = Writing skills
+Writing skills form the foundation of technical communication.
+
+=== Key writing skills 
+* using precise language
+* organizing information in a logical structure
+* consistent terminology throughout the document
+* adapting to the target audience
+* following style guides and standards
+* minimalism is key
+
+== Technical skills
+
+Technical knowledge enables accurate communication and effective collaboration with SMEs.
+
+=== Important technical skills
+
+* Operating system fundamentals
+* Networking
+* Software development principles
+* Command-line usage
+* Version control systems (Git)
+* Documentation markup languages (AsciiDoc, Markdown)
+
+== Research and Analytical Skills
+Accurate documentation depends on reliable information. Research skills help technical writers gather information from multiple sources
+
+=== Research activities
+
+* Reviewing technical specifications
+* Consulting SMEs
+* Comparing information from multiple sources
+
+== Communication and Collaboration Skills
+
+Documentation projects often involve cooperation with others. Effective communication improves the quality and consistency of documentation.
+
+=== Communication skills include
+
+* Conducting interviews with SMEs
+* Gathering and incorporating feedback
+* Participating in content reviews
+
 = Documentation tools
 = Employment as a Technical Writer
 
