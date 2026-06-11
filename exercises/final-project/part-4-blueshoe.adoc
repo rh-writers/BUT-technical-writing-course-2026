@@ -1,6 +1,6 @@
 = 4 Software Usage
 
-Closer explanation of the software used
+Explanation of the software used
 
 == 4.1 Git
 
@@ -96,9 +96,19 @@ Let's use this codeblock as an example.
 Platform which implements git, and many other features, including its own text editor.
 
 === 4.4.1 GitHub text editor
+
 * Simple editor allowing for file editing
 * Docs as text compliant
 * Allows for previews of rendered text
 * Supports AsciiDoc
 
+=== 4.4.2 GitHub git implementation 
+
+* Can be used with a web UI or CLI
+
+== See also
+
+* https://git-scm.com/docs[Git documentation]
+* https://docs.asciidoctor.org/asciidoc/latest/[AsciiDoc Documentation]
+* https://github.com/[GitHub]
 
