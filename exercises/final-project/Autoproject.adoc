@@ -85,7 +85,8 @@ Use trusted sources such as:
 
 == 5. Tools:
 
-- for writing use https://asciidoc.org/[Asciidoc] or https://www.markdownguide.org/[Markdown]
+- for writing use https://code.visualstudio.com/[Visual studio code] https://asciidoc.org/[Asciidoc] or https://www.markdownguide.org/[Markdown]
+- 
 
 == 6. Where not to use technical writing
 
