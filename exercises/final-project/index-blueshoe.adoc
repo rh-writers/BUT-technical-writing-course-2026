@@ -1,3 +1,9 @@
 = Technical writing basics
 
+A step-by-step guide on becoming a technical writer.
+
+= Table of contents
+
+bla bla bla
+
 created by team BlueShoe
