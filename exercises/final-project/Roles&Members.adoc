@@ -1,0 +1,10 @@
+== Roles & Members
+
+|===
+| Team Member | Role
+| Matúš Cipov | Writer
+| Alan Beneš | Program Manager, Writer, Presenter
+| Patrik Doležal | Presenter, Writer
+| Šimon Cibulka | Writer, Product Manager, Program Manager
+| David Nečas | Product Manager, Writer
+|===
