@@ -1,1 +1,1 @@
-![diagram] exercises/final-project/diagram.png
+![diagram] (exercises/final-project/diagram.png)
