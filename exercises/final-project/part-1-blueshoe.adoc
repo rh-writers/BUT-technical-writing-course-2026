@@ -10,4 +10,4 @@ The bare essential requirements for technical writing are:
 
 == 1.1. Text Editors
 
-Text editors are differentiated by 
+Text editors are split intwo two groups, WYSIWYG (What You See Is What You Get) editors and 
