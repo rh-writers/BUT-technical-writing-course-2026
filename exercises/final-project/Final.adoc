@@ -64,7 +64,6 @@ Documentation projects often involve cooperation with others. Effective communic
 * Gathering and incorporating feedback
 * Participating in content reviews
 
-= Documentation tools
 = Employment as a Technical Writer
 
 == Job Market and Opportunities
