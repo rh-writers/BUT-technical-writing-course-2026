@@ -14,7 +14,9 @@ The goal of technical writers is to *help readers achive their goals*, by creati
 . develop technical knowledge
 . learn documentation tools
 . build a portfolio
+
 image::../final-project/diagram.png[width=600 height=600]
+
 == Writing skills:
 - Technical writer should aim for straight forward documentation, without excess fluff, but keeping the text accurate, clear, and effective (ACE)
 
