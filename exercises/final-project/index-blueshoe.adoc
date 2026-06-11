@@ -4,7 +4,9 @@ A step-by-step guide on becoming a technical writer
 
 = Table of contents
 
-1. include::part-1-blueshoe.adoc[Prerequisites]
+include::part-1-blueshoe.adoc[leveloffset=+1] 
+
+1. https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/1f3348ff610f85e5fba5ded0e9bb7485318f41b0/exercises/final-project/part-1-blueshoe.adoc#1-prerequisites [Prerequisites]
 
 ** 1.1 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#11-text-editors[Text Editors]
 
