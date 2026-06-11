@@ -1,10 +1,15 @@
 == Technical writing style
 
 === Purpose
+
 Translate complex information into easily readable content + 
+
 === Style 
+
 * Brief and standardized +
+
 === Language +
+
 * Simple, without jargon +
 
 === Objectives
