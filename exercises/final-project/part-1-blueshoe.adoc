@@ -1,4 +1,4 @@
-= 1: Prerequisites 
+= 1. Prerequisites 
 
 Tools required for technical writing and their explanations. 
 
