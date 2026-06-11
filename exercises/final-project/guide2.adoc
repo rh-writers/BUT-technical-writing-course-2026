@@ -1,4 +1,4 @@
 
 image::../exercises/final-project/diagram.png
 
-image:../diagram.png
+image:./diagram.png
