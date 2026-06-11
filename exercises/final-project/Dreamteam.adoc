@@ -42,7 +42,7 @@
 * Be flexible and adaptable
 * Have teamwork spirit
 * Be communicative
-* seek guidence from others
+* Seek guidence from others
 
 == Objectives of technical witing style:
 * Accessibility: Comprehensive for all users
@@ -50,6 +50,9 @@
 * Minimalism: reduction of fluff
 * Modularity: break down into small blocks (multiple parts)
 * Reusability: Reuse of steps for future purposes
+* Do reasearch before writing technical documentation
+* Stick to one writing style (link:https://learn.microsoft.com/en-us/style-guide/welcome/[Microsoft Writing Style Guide])
+
 
 
 
