@@ -1,4 +1,0 @@
-
-image::../exercises/final-project/diagram.png
-
-image::../final-project/diagram.png[width=600 height=600]
