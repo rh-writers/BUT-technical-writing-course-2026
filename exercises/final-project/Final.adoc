@@ -87,22 +87,6 @@ Documents should be readable by all readers:
 
 = How to write correctly
 
-== Minimalism
-* Don´t overcomplicate your texts. Minimalism means using as few words as you can to transfer information.
-* Be careful about shortening your text too much, it still needs to convey the information correctly.
-* Tip for you - Avoid using adjectives where they are not important.
+include::How_to_write_correctly.adoc[]
 
-== Language
 
-* Use the simplest words in your vocabulary.
-* Prioritize using active voice over passive voice, it gives more clarity to your text.
-
-== Style guides
-
-Microsoft writing style guide is considered the best for beginners. Other guides you can choose from:
-
-* link:https://learn.microsoft.com/en-us/style-guide/[*IBM Style*] – Comprehensive and professional, but less beginner-friendly. 
-* link:https://developers.google.com/style/[*SUSE Documentation Style Guide*] – Fairly welcoming to new writers. 
-* link:https://www.ibm.com/docs/en/ibm-style/[*Apple Style Guide*] – Easy to read and well organized, but primarily aimed at Apple platforms. 
-* link:https://developer.apple.com/design/human-interface-guidelines/[*Microsoft Writing Style Guide*] – One of the most beginner-friendly guides, emphasizing clear, conversational language. This document is written in it for example.  
-* link:https://documentation.suse.com/[*Google Developer Documentation Style Guide*] – Very approachable for new technical writers, modern writing principles. 
