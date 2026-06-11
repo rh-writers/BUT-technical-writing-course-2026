@@ -32,9 +32,9 @@
 * Avoid colorful analogies
 * Avoid informal slang and curse words
 * Pronoun & Tone : Avoid first-person plural or conversational phrasing like "Let's use...". Use direct, imperative instructions, 2nd person.
-* State the objective: Sentence structure could be inverted to better follow a "Goal-Means approach". For example phrases like "use command XY to [achieve goal]" could be better structured as "To [achieve goal], use command XY.
+* State the objective: Reverse the sentence structure. For example: "use command XY to [achieve goal]" could be better structured as "To [achieve goal], use command XY.
 
-== Follow these human attributes:
+== Follow these human attributes (Soft skills):
 * Be open-minded
 * Be accurate
 * Write briefly
@@ -43,5 +43,13 @@
 * Have teamwork spirit
 * Be communicative
 * seek guidence from others
+
+== Objectives of technical witing style:
+* Accessibility: Comprehensive for all users
+* Readability: for users fast understanding of the text
+* Minimalism: reduction of fluff
+* Modularity: break down into small blocks (multiple parts)
+* Reusability: Reuse of steps for future purposes
+
 
 
