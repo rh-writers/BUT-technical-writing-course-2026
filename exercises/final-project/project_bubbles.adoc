@@ -21,7 +21,98 @@ Understand the subject → provide simple and imformative explanation to save wo
  * Use visual structure and formatting to make the text easy to read. 
  * Focus on helping the reader accomplish a specific goal.
 ----
+## Soft skills
 
+Soft skills are 
+
+### General rules 
+
+* Stick to the facts
+* Approach colleagues without hostility
+* Make the conversation effective
+
+## Communication
+
+Connect with the person by:
+
+* … having a good eye contact
+* … observing body language
+
+Avoid conflict by:
+* …. reserving judgement and unwanted advice
+
+Make conversation fruitful by:
+
+* … doing research on the topic beforehand
+* … asking open-ended questions to encourage further discussion
+* … paraphrasing others’ statements and reflecting them back
+* … listening with intention to understand
+* … posing hypotheticals
+
+## How to give feedback
+
+1. Prepare information about the topic and stick to the facts.
+2. Mind your approach (tone and non-verbal cues).
+3. Remain empathetic and listen to the person’s responce.
+3. Focus on improvement of the piece of work you are giving feedback to.
+
+Here are some examples:
+
+### Positive feedback
+
+Point to the specific part you find good.
+
+Examples:
+
+‘I like the structure of this module.,
+
+‘Thank you for adding this link.,
+
+### Asking for more information: 
+1. Introduce yourself.
+2. Remind of the object of the discussion (particular piece of work).
+3. Ask a question.
+4. Thank the person.
+### Negative feedback
+Stick to the facts while giving negative feedback.
+
+1. State the fact.
+2. Explain why this situation is unwanted.
+3. Ask for correction or offer the solutions.
+
+Example:
+‘ This document has complicated structure, it received many complaints from the users. Can you please restructuralize it? I have a few example articles that can help you with this.’
+
+
+## How to receive feedback
+
+* Be proactive and ask for the feedback
+* Remain civil
+* Focus on improvements
+* Express gratitude for the reviews
+* Stay objective.
+
+## Peer review
+* Work with style guides
+* Add references to your comments if needed
+* Differentiate between required and optional changes.
+* Provide positive feedback as well as negative.
+
+Main points of focus:
+* grammar
+* style
+* minimalism 
+
+## Productivity
+To stay productive during work,
+
+1. Find comfortable environment.
+2. Eliminate distractions.
+3. Set a clear goal.
+4. Schedule breaks every 45 minutes if possible.
+5. Work.
+
+Also, ask for help as soon as you need it.
 
 = Minimalism 
 ----
