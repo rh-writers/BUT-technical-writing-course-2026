@@ -71,9 +71,10 @@ The goal is to gather accurate information and share it clearly with the intende
 . communicate information clearly and concisely
 . review and update content regularly
 
-*4.2 Research:*
+*4.2 Research*
 
-- use trusted sources such as:
+use trusted sources such as:
+
 - official documentation
 - technical articles
 - academic publications
