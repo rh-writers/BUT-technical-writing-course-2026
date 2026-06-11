@@ -2,25 +2,25 @@
 
 
 == What is technical writing?  
-----
+
 Your aim is to understand how product works, and help user to achieve their goal. 
 Technical writing is used in manuals, guides, solutions, troubleshooting. 
  
 Understand the subject → provide simple and imformative explanation to save work and stress for the readers.
 
 
-----
+
 
 == Technical docs style ≠ general writing style 
 
-----
+
 * Focus on readability, findability, accessibility, and ultimately the user 
  experience 
  * Some best practices: 
  * Use simple, translation-friendly language. 
  * Use visual structure and formatting to make the text easy to read. 
  * Focus on helping the reader accomplish a specific goal.
-----
+
 ## Soft skills
 
 Soft skills are interpersonal set of skills that help communicating effectively.
@@ -35,19 +35,19 @@ Soft skills are interpersonal set of skills that help communicating effectively.
 
 Connect with the person by:
 
-* … having a good eye contact
-* … observing body language
+* having a good eye contact
+* observing body language
 
 Avoid conflict by:
-* …. reserving judgement and unwanted advice
+* reserving judgement and unwanted advice
 
 Make conversation fruitful by:
 
-* … doing research on the topic beforehand
-* … asking open-ended questions to encourage further discussion
-* … paraphrasing others’ statements and reflecting them back
-* … listening with intention to understand
-* … posing hypotheticals
+* doing research on the topic beforehand
+* asking open-ended questions to encourage further discussion
+* paraphrasing others’ statements and reflecting them back
+* listening with intention to understand
+* posing hypotheticals
 
 ## How to give feedback
 
