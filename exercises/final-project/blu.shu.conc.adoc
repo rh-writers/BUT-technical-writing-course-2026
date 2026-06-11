@@ -1,4 +1,4 @@
-= 4. Conclusion
+= 5. Conclusion
 
 This manual is meant to give basics of technical writing to people who want to get started with it.
 Its aim is to equip them with the right mindset and tool to get stareted.
