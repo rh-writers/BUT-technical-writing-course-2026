@@ -1,15 +1,19 @@
-== What is technical writing?
-== Writing skills
-== Documentation tools
+= What is technical writing?
+= Writing skills
+= Documentation tools
 = Employment as a Technical Writer
 
 == Job Market and Opportunities
 Technical writing is a rapidly growing field. Companies look for writers who can bridge the gap between complex engineering concepts and end-users.
 
+* Avarege pay in Brno (2026): 55 000 - 70 000 Kč
+* A lot of companies present their job offers on internet
+* link:https://www.jobs.cz/prace/technical-writer/[Jobs.cz], link:https://cz.jooble.org/pr%C3%A1ce-technical-writer[Jooble]
+
+
 === Common Industries
-* Software Development (SaaS)
+* Software Development
 * Hardware and Electronics
-* Aerospace and Defense
 
 == Career Progression
 [cols="1,2", options="header"]
