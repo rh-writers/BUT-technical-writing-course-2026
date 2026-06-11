@@ -1,0 +1,10 @@
+= 2 Expectations
+
+== 2.1 Work with people
+Other TWs, SMEs, managers, etc.
+
+== 2.2 A lot of researching
+You need to understand what you are writing about
+
+== 2.3 Handling a lot of infromation
+A large amount of information will often need to be included in a document.
