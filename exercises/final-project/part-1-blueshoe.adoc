@@ -11,7 +11,7 @@ The bare essential requirements for technical writing are:
 
 == 1.1. Text Editors
 
-Text editors are split intwo two groups, WYSIWYG (What You See Is What You Get) editors and Docs as code editors.
+Note: Text editors are split intwo two groups, WYSIWYG (What You See Is What You Get) editors and Docs as code editors.
 
 === 1.1.1 WYSIWYG
 
@@ -38,3 +38,15 @@ Text editors are split intwo two groups, WYSIWYG (What You See Is What You Get) 
 * Used for tracking any jobs done in software development
 
 == 1.4 Tools used in this guide
+
+GitHub will be used for all of these purposes through the rest of this guide. It is a unified platform that allows us to do everything we need.
+
+* Git - Version Control
+* GitHub web editor - Docs as code text editor
+** AsciiDoc - markup language 
+* Pull requests - Adequate analog to ticketing for the purposes of this guide
+
+== See also
+
+* https://github.com/[GitHub's official website]
+* https://docs.asciidoctor.org/asciidoc/latest/[AsciiDoc documentation]
