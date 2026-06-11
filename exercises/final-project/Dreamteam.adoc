@@ -6,3 +6,4 @@
 * Product manager = David Nečas
 * Program manager = Alan Beneš
 * Presenter = Patrik Doležal
+negr
