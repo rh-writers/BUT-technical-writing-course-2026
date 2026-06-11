@@ -14,3 +14,4 @@ The goal of technical writers is to *help readers achive their goals*, by creati
 . develop technical knowledge
 . learn documentation tools
 . build a portfolio
+
