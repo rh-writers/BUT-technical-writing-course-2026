@@ -3,9 +3,9 @@
 == Roles
 
 * Writers = Matúš Cipov, Alan Beneš, Patrik Doležal, Šimon Cibulka, David Nečas
-* Product manager = David Nečas
-* Program manager = Alan Beneš
-* Presenter = Patrik Doležal
+* Product managers = David Nečas, Šimon Cibulka
+* Program managers = Alan Beneš, Šimon Cibulka
+* Presenters = Patrik Doležal, Alan Beneš
 
 = Final course project
 
