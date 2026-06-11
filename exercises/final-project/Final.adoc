@@ -17,7 +17,8 @@ we first need to define what is the purpose of technical writing.
 * Developers can troubleshoot code much faster.
 
 
-= Writing skills
+= Essential skills
+== Writing skills
 Writing skills form the foundation of technical communication.
 
 === Key writing skills 
