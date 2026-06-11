@@ -9,9 +9,9 @@
 
 = Final course project
 
-== Consideration
+== Considerations
 === Target audience
-* Anyone, who wants to become a technical writer
+* Anyone who wants to become a technical writer
 
 === Tone
 * Neutral
@@ -22,37 +22,33 @@
 * Introduction
 * Focus
 
-= How to become a technical writer step by step
+= How to become a technical writer step-by-step
 == Avoid these common mistakes:
 * **Overuse of passive voice:** Mainly aim for the active voice to make your documentation more direct and clear.
-* Self-referential text: Avoid meta-phrases like "This document describes..." or "In this section, I will show..."
-* Anthropomorphism: Do not attribute human emotions or behaviors to software (avoiding phrases like "the program became confused").
-* Inconsistent formatting: Watch out for formatting consistency.
-* Tutorial vs. Technical writing: Differ educational tutorial and professional tech writing.
-* Avoid colorful analogies
-* Avoid informal slang and curse words
-* Pronoun & Tone : Avoid first-person plural or conversational phrasing like "Let's use...". Use direct, imperative instructions, 2nd person.
-* State the objective: Reverse the sentence structure. For example: "use command XY to [achieve goal]" could be better structured as "To [achieve goal], use command XY.
+* **Self-referential text:** Avoid meta-phrases like "This document describes..." or "In this section, I will show..."
+* **Anthropomorphism:** Do not attribute human emotions or behaviors to software (avoid phrases like "the program became confused").
+* **Inconsistent formatting:** Watch out for formatting consistency throughout the document.
+* **Tutorial vs. Technical writing:** Differentiate between an educational tutorial and professional tech writing.
+* **Colorful analogies:** Avoid using colorful analogies.
+* **Informal language:** Avoid informal slang and curse words.
+* **Pronouns & Tone:** Avoid first-person plural or conversational phrasing like "Let's use...". Use direct, imperative instructions in the 2nd person.
+* **Stating the objective:** Reverse the sentence structure. For example, "Use command XY to [achieve goal]" is better structured as "To [achieve goal], use command XY."
 
 == Follow these human attributes (Soft skills):
 * Be open-minded
 * Be accurate
-* Write briefly
-* Write in begginer friendly style
+* Write concisely
+* Write in a beginner-friendly style
 * Be flexible and adaptable
-* Have teamwork spirit
+* Have a strong team spirit
 * Be communicative
-* Seek guidence from others
+* Seek guidance from others
 
-== Objectives of technical witing style:
-* Accessibility: Comprehensive for all users
-* Readability: for users fast understanding of the text
-* Minimalism: reduction of fluff
-* Modularity: break down into small blocks (multiple parts)
-* Reusability: Reuse of steps for future purposes
-* Do reasearch before writing technical documentation
-* Stick to one writing style (link:https://learn.microsoft.com/en-us/style-guide/welcome/[Microsoft Writing Style Guide])
-
-
-
-
+== Objectives of technical writing style:
+* **Accessibility:** Comprehensible for all users.
+* **Readability:** Structured to allow users to understand the text quickly.
+* **Minimalism:** Reduction of fluff.
+* **Modularity:** Broken down into small blocks (multiple parts).
+* **Reusability:** Reuse of steps for future purposes.
+* **Research:** Do research before writing technical documentation.
+* **Consistency:** Stick to one writing style (link:https://learn.microsoft.com/en-us/style-guide/welcome/[Microsoft Writing Style Guide]).
