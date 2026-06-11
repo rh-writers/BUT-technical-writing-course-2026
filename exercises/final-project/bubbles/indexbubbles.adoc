@@ -1,4 +1,8 @@
+== Guide to Technical Writing
+
 include::introbubbles.adoc[]
+
 include::softskills.adoc[]
+
 include::hardskillsandtools.adoc[]
 
