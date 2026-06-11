@@ -1,6 +1,6 @@
-= Dream team
+= Dream team project
 
-== roles
+== Roles
 
 * Writer = Matúš Cipov, Alan Beneš, Patrik Doležal, Šimon Cibulka, David Nečas
 * Product manager = David Nečas
