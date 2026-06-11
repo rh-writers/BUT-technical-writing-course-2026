@@ -8,7 +8,7 @@ The goal of technical writers is to *help readers achive their goals*, by creati
 - tendency to minimalism
 - soft skills and core communication
 
-== Procedure
+== Procedure:
 . learn the core skills (writing skills, technical understanding, research skills)
 . learn technical writing fundamentals
 . develop technical knowledge
