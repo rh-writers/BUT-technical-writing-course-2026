@@ -18,7 +18,7 @@ The goal of technical writers is to *help readers achive their goals*, by creati
 . build a portfolio
 
 image::../final-project/diagram.png[width=600 height=600]
-
+https://scientyficworld.org/what-is-technical-writing/[Obrázek-diagram]
 
 == 3. Writing skills:
 
