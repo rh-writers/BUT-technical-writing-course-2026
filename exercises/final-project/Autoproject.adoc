@@ -18,7 +18,8 @@ The goal of technical writers is to *help readers achive their goals*, by creati
 image::../final-project/diagram.png[width=600 height=600]
 
 == 3. Writing skills:
-- Technical writer should aim for straight forward documentation, without excess fluff, but keeping the text accurate, clear, and effective (ACE)
+
+Technical writer should aim for straight forward documentation, without excess fluff, but keeping the text accurate, clear, and effective (ACE)
 
 *3.1 Utilization:*
 
