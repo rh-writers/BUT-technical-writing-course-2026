@@ -1,4 +1,4 @@
 include::introbubbles.adoc[]
 include::softskills.adoc[]
-include::hardskils[]
-include::tools[]
+include::hardskilsandtools.adoc[]
+
