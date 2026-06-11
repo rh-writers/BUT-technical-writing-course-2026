@@ -11,7 +11,7 @@ A technical writer combines communication with technical knowledge to create doc
 include::Skills.adoc[]
 
 
-= Employment as a Technical Writer
+= Employment as a technical writer
 
 Technical writing is a rapidly growing field. Companies look for writers who can bridge the gap between complex engineering concepts and end-users.
 
