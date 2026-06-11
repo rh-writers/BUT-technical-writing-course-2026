@@ -1,1 +1,6 @@
-
+== Procedure
+. Learn the core skills (writing skills, technical understanding, research skills)
+. Learn technical writing fundamentals
+. Develop technical knowledge
+. Learn documentation tools
+. Build a portfolio
