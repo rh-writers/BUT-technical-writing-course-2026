@@ -58,7 +58,7 @@ Accurate documentation depends on reliable information. Research skills help tec
 
 Documentation projects often involve cooperation with others. Effective communication improves the quality and consistency of documentation.
 
-=== Communication skills include
+=== Communication skills
 
 * Conducting interviews with SMEs
 * Gathering and incorporating feedback
