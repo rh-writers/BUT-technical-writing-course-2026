@@ -1,4 +1,4 @@
-=== 3.3. interacting with other writers
+=== 3.2.1 interacting with other writers
 
 When you have job as a technical writer you will have to comunicate with your coworkers.
 
