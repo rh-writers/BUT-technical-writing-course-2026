@@ -32,6 +32,7 @@ Writing skills form the foundation of technical communication.
 * following style guides and standards
 * minimalism is key
 
+include::Skills.adoc[]
 
 
 = Employment as a Technical Writer
