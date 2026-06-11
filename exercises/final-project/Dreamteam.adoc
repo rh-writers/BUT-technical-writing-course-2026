@@ -1,11 +1,15 @@
 = Dream team project
 
-== Roles
+== Roles & Members
 
-* Writers = Matúš Cipov, Alan Beneš, Patrik Doležal, Šimon Cibulka, David Nečas
-* Product managers = David Nečas, Šimon Cibulka
-* Program managers = Alan Beneš, Šimon Cibulka
-* Presenters = Patrik Doležal, Alan Beneš
+|===
+| Team Member | Role
+| Matúš Cipov | Writer
+| Alan Beneš | Program Manager, Writer, Presenter
+| Patrik Doležal | Presenter, Writer
+| Šimon Cibulka | Writer, Product Manager, Program Manager
+| David Nečas | Product Manager, Writer
+|===
 
 = Final course project
 
