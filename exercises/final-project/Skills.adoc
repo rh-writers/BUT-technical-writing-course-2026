@@ -3,12 +3,12 @@
 Writing skills form the foundation of technical communication.
 
 === Key writing skills 
-* using precise language
-* organizing information in a logical structure
-* consistent terminology throughout the document
-* adapting to the target audience
-* following style guides and standards
-* minimalism is key
+* Using precise language
+* Organizing information in a logical structure
+* Consistent terminology throughout the document
+* Adapting to the target audience
+* Following style guides and standards
+* Minimalism is key
 
 == Technical skills
 
@@ -26,7 +26,7 @@ Technical knowledge enables accurate communication and effective collaboration w
 * Documentation markup languages (AsciiDoc, Markdown)
 
 == Research and Analytical Skills
-Accurate documentation depends on reliable information. Research skills help technical writers gather information from multiple sources
+Accurate documentation depends on reliable information. Research skills help technical writers gather information from multiple sources.
 
 === Research activities
 
