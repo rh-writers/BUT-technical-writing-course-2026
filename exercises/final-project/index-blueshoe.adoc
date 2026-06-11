@@ -8,9 +8,9 @@ A step-by-step guide on becoming a technical writer
 
 ** 1.1 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#11-text-editors[Text Editors]
 
-*** 1.1.1 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#111-wysiwyg[1.1.1 WYSIWYG]
+*** 1.1.1 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#111-wysiwyg[WYSIWYG]
 
-*** 1.1.2 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#112-docs-as-code[1.1.2 Docs as code]
+*** 1.1.2 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#112-docs-as-code[Docs as code]
 
 ** 1.2 https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#12-version-control-software[Version control software]
 
