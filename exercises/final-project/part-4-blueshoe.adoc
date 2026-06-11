@@ -91,3 +91,14 @@ Let's use this codeblock as an example.
 
 * [x] I understand the basics of AsciiDoc
 
+== 4.4 GitHub 
+
+Platform which implements git, and many other features, including its own text editor.
+
+=== 4.4.1 GitHub text editor
+* Simple editor allowing for file editing
+* Docs as text compliant
+* Allows for previews of rendered text
+* Supports AsciiDoc
+
+
