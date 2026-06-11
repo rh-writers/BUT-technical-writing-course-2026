@@ -2,11 +2,13 @@
 
 The goal of technical writers is to *help readers achive their goals*, by creating *straight forward and easy to follow documentation* for a product. When you are creating a technical documentation, think about Adam (hopeless, stressed customer, who needs help).
 
+
 == 1. Prerequisites:
 - educational foundation
 - technical and tooling proficiency
 - tendency to minimalism
 - soft skills and core communication
+
 
 == 2. Procedure:
 . learn the core skills (writing skills, technical understanding, research skills)
@@ -16,6 +18,7 @@ The goal of technical writers is to *help readers achive their goals*, by creati
 . build a portfolio
 
 image::../final-project/diagram.png[width=600 height=600]
+
 
 == 3. Writing skills:
 
@@ -49,6 +52,7 @@ Follow a specific style guide so your documentation is:
 . Google style guide
 . Microsoft style guide
 
+
 == 4. Communication and research:
 
 The goal is to gather accurate information and share it clearly with the intended audience in mind (Adam). Good communication helps users understand documentation, while research ensures the information is reliable and useful :
@@ -73,6 +77,7 @@ The goal is to gather accurate information and share it clearly with the intende
 - technical articles
 - academic publications
 - industry standards
+
 
 == 5. Tools:
 
