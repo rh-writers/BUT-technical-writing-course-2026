@@ -48,4 +48,4 @@
 * **Modularity:** Broken down into small blocks (multiple parts).
 * **Reusability:** Reuse of steps for future purposes.
 * **Research:** Do research before writing technical documentation.
-* **Consistency:** Stick to one writing style (link:https://learn.microsoft.com/en-us/style-guide/welcome/[Microsoft Writing Style Guide]).
+* **Consistency:** Stick to one writing style (link:https://learn.microsoft.com/en-us/style-guide/welcome/[Microsoft Writing Style Guide], link:https://documentation.suse.com/style/current[SUSE Documentation Style Guide]).
