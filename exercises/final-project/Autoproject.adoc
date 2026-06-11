@@ -22,7 +22,7 @@ https://scientyficworld.org/what-is-technical-writing/[Obrázek-diagram]
 
 == 3. Writing skills:
 
-Technical writer should aim for straight forward documentation, without excess fluff, but keeping the text accurate, clear, and effective (ACE)
+Technical writer should aim for straightforward documentation, without excess fluff, but keeping the text accurate, clear, and effective (ACE)
 
 *3.1 Utilization:*
 
