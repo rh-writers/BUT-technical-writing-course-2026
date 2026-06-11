@@ -4,6 +4,8 @@
 
 include::Roles&Members.adoc[Roles & Members]
 
+== Final course project info
+
 include::Finalcourseprojectinfo.adoc[Final course project info]
 
 = How to become a technical writer step-by-step
