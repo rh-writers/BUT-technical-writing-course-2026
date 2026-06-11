@@ -1,1 +1,9 @@
-=== How to become technical writer
+= Become a technical writer as a student
+
+The goal of technical writers is to *help readers achive their goals*, by creating *straight forward and easy to follow documentation* for a product. 
+
+== Prerequisites:
+- educational foundation
+- technical and tooling proficiency
+- tendency to minimalism
+- soft skills and core communication
