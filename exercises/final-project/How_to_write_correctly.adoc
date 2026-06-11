@@ -12,8 +12,10 @@
 
 Microsoft writing style guide is considered the best for beginners. Other guides you can choose from:
 
-* *IBM Style* – link:https://learn.microsoft.com/en-us/style-guide/[link]
-* *SUSE Documentation Style Guide* – link:https://developers.google.com/style/[link]
-* *Apple Style Guide* – link:https://www.ibm.com/docs/en/ibm-style/[link]
-* *Google Developer Documentation Style Guide* – link:https://documentation.suse.com/[link]
-* *Microsoft Writing Style Guide* – link:https://developer.apple.com/design/human-interface-guidelines/[link] 
+
+
+* link:https://learn.microsoft.com/en-us/style-guide/[*IBM Style*] – Comprehensive and professional, but less beginner-friendly. 
+* link:https://developers.google.com/style/[*SUSE Documentation Style Guide*] – Fairly welcoming to new writers. 
+* link:https://www.ibm.com/docs/en/ibm-style/[*Apple Style Guide*] – Easy to read and well organized, but primarily aimed at Apple platforms. 
+* link:https://developer.apple.com/design/human-interface-guidelines/[*Microsoft Writing Style Guide*] – One of the most beginner-friendly guides, emphasizing clear, conversational language. This document is written in it for example.  
+* link:https://documentation.suse.com/[*Google Developer Documentation Style Guide*] – Very approachable for new technical writers, modern writing principles. 
