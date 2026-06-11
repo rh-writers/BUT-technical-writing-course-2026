@@ -1,9 +1,25 @@
 = Technical writing basics
 
-A step-by-step guide on becoming a technical writer.
+A step-by-step guide on becoming a technical writer
 
 = Table of contents
 
-bla bla bla
+https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc[1. Prerequisites]
+
+https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#11-text-editors[1.1. Text Editors]
+
+https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#111-wysiwyg[1.1.1 WYSIWYG]
+
+https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#112-docs-as-code[1.1.2 Docs as code]
+
+https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#12-version-control-software[1.2 Version control software]
+
+https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#13-ticketing-software[1.3 Ticketing software]
+
+https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#14-tools-used-in-this-guide[1.4 Tools used in this guide]
+
+https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/blue-shoe-branch/exercises/final-project/part-1-blueshoe.adoc#see-also[See also]
+
+https://github.com/rh-writers/BUT-technical-writing-course-2026/edit/blue-shoe-branch/exercises/final-project/part2.adoc#2-expectations[2. Expectations]
 
 created by team BlueShoe
