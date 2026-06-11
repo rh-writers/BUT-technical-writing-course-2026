@@ -1,5 +1,21 @@
 == What is technical writing?
 == Writing skills
 == Documentation tools
-== Employment
+= Employment as a Technical Writer
+
+== Job Market and Opportunities
+Technical writing is a rapidly growing field. Companies look for writers who can bridge the gap between complex engineering concepts and end-users.
+
+=== Common Industries
+* Software Development (SaaS)
+* Hardware and Electronics
+* Aerospace and Defense
+
+== Career Progression
+[cols="1,2", options="header"]
+|===
+| Role | Responsibility
+| Junior Technical Writer | Creating basic user guides, updating existing documentation.
+| Senior Technical Writer | Setting documentation strategy, mentoring juniors, toolchain management.
+|===
 
