@@ -10,7 +10,7 @@ AsciiDoc
 include::modules/introduction.adoc[]
 
 == Core Skills Matrix
-include::modules/skills-matrixtrue.adoc[]
+include::modules/Coreskills-matrixtrue.adoc[]
 
 == Tools and Technologies
 include::modules/tools-landscape.adoc[]
