@@ -1,0 +1,7 @@
+=== Step 1: Build a Open-Source Portfolio
+Do not wait for a job to start writing. Build a GitHub portfolio containing:
+A quick-start guide for an open-source tool.
+A conceptual explanation of a complex architecture.
+
+=== Step 2: Contribute to Open Source
+Gain real-world experience by contributing to documentation for open-source projects on GitHub. This demonstrates your ability to work with peer-review systems and pull requests.
