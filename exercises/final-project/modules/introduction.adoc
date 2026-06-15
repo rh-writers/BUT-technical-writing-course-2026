@@ -1,0 +1,11 @@
+This guide provides a structured blueprint for individuals aiming to transition into technical writing.
+
+=== Target Audience
+This roadmap is engineered for:
+
+* **Career Switchers:** Software engineers or support specialists looking to pivot.
+* **Wordsmiths:** Copywriters, journalists, and educators translating their skills to tech.
+* **Students:** Individuals entering the job market seeking high-growth technical roles.
+
+=== The Modern Documentation Landscape
+Technical writing has evolved from static PDF manuals to *Docs-as-Code* workflows. Modern technical writers treat documentation like software, tracking it in version control systems (Git) and writing in lightweight markup languages like Markdown and AsciiDoc.
