@@ -1,0 +1,19 @@
+
+AsciiDoc
+= Becoming a Professional Technical Writer: A Roadmap
+:toc: left
+:toclevels: 2
+:icons: font
+:sectnums:
+
+== Introduction
+include::modules/introduction.adoc[]
+
+== Core Skills Matrix
+include::modules/skills-matrix.adoc[]
+
+== Tools and Technologies
+include::modules/tools-landscape.adoc[]
+
+== Career Pathway & Portfolio Build
+include::modules/career-pathway.adoc[]
