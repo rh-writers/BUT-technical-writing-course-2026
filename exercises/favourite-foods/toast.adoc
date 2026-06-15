@@ -1,0 +1,13 @@
+=Toast
+-------
+* we need:2 pieces of bread, sliced ham, sliced cheese, ketchup, contact grill
+
+1. take one piece of bread
+2. put a slice of cheese on the piece of bread
+3. put a small amount of ketchup on the cheese on the bread
+4. put a slice of ham on the cheese on the bread
+5. put the second piece of bread on the ham.
+6. put the whole thing inside a small contact grill
+7. wait 3 to 4 minutes
+8. take the toast out of the contact grill
+9. enjoy
