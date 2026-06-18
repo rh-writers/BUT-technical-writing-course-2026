@@ -1,0 +1,52 @@
+= 1. Prerequisites 
+
+Tools required for technical writing and their explanations. 
+
+The bare essential requirements for technical writing are:
+
+* Computer or laptop
+* Text editor
+* Version control software
+* Ticketing software 
+
+== 1.1. Text Editors
+
+Note: Text editors are split intwo two groups, WYSIWYG (What You See Is What You Get) editors and Docs as code editors.
+
+=== 1.1.1 WYSIWYG
+
+* Any edits done to the document are immediately visible in the text editor
+* They are easy to conceptualize 
+* They are difficult to standardize
+* Not recommended for technical writing
+
+=== 1.1.2 Docs as code
+
+* Text is written in markup languages (HTML, XML, AsciiDoc)
+* The text might be difficult to read, depending on the markup language used
+* They are easy to standardize 
+* Recommended for technical writing
+
+==  1.2 Version control software 
+
+* Used for tracking and management of content changes
+* Used universally in software development
+* Makes fixing issues easier
+
+== 1.3 Ticketing software 
+
+* Used for tracking any jobs done in software development
+
+== 1.4 Tools used in this guide
+
+GitHub will be used for all of these purposes through the rest of this guide. It is a unified platform that allows us to do everything we need.
+
+* Git - Version Control
+* GitHub web editor - Docs as code text editor
+** AsciiDoc - markup language 
+* Pull requests - Adequate analog to ticketing for the purposes of this guide
+
+== See also
+
+* https://github.com/[GitHub's official website]
+* https://docs.asciidoctor.org/asciidoc/latest/[AsciiDoc documentation]

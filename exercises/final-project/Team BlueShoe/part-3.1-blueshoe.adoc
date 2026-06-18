@@ -1,0 +1,8 @@
+= 3. Guide
+
+== 3.1 Preparation and getting into technical writing
+
+* Open any kind of guide booklet. (this is typical example of technical writing. https://www.asio.cz/download/_/materialy-variocomp-n-ultra/no_as-variocomp-5-50eo.pdf[Example] of guide booklet.)
+* Open the booklet and read through it. (helps with inspiration and can act like a template for future technical writing)
+* Use your laptop to search for a job positions involving technical writing. (for example on website https://www.jobs.cz/?utm_source=google&utm_medium=cpc&utm_campaign=CZ-JOBSCZ_AlwaysOn_GoogleAds_SearchAds_Conversion-Brand_Conversions&utm_id=243788523&gad_source=1&gad_campaignid=243788523&gbraid=0AAAAADmdGTXn9ZkxVuMeefiPIBHIll5K2&gclid=CjwKCAjwuanRBhBSEiwAY5y6V7W4ty9l3yfFlc0ZKoYPyg-vW53W7DDOSpWOCRNfxpao1Fd6fstTpxoC9qcQAvD_BwE[jobs.cz])
+* Get in touch with other technical writers (for example at https://www.writethedocs.org/slack/[Writethedocs] online community)

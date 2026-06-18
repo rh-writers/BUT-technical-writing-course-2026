@@ -1,0 +1,114 @@
+= 4 Software Usage
+
+Explanation of the software used
+
+== 4.1 Git
+
+* Version control software 
+** Software used for tracking development process 
+=== 4.1.1 Git Terminology 
+* Repository - Where the project is stored
+* Commit - Changes done to project 
+* Branch - Split version of the project from the main line
+* Merging - Combining split branches into one 
+* Pull Request - Request for branches to be merged
+
+== 4.2 Docs as text editors
+* Subclass of text editors
+* What you see is not representative of the final document
+* Markup languages are used for text formatting
+
+== 4.3 AsciiDoc
+
+Markup language used in Docs as text editors 
+
+=== 4.3.1 Basics of AsciiDoc
+Formatting in AsciiDoc is done by writing set combinations of characters.
+
+I.E.:
+
+----
+= Lorem Ipsum
+
+. Dolor sit amet
+----
+
+Following is a demonstration of basic AsciiDoc usage:
+
+**Note: The backslashes before the codeblock markings are there for this document to format correctly, they are to be omitted in actual use**
+
+----
+= This is a heading
+== The more equal signs you add the smaller the headings get 
+=== This is useful for making chapters and subchapters within your documents 
+
+Leave an empty row to start a new paragraph. 
+
+* This is an unordered list
+. This is an ordered list 
+. It handles the numbers on its own! 
+** You can combine the two types together
+*** Also this is how you make nested lists
+- It even works with hyphons!
+
+*This* _is_ `an` #example# ^of^ b**as**ic ##form##atting. 
+
+* If you want another element to follow the same indentation as the text preceeding it, add a plus between them! 
+
++
+
+\----
+Let's use this codeblock as an example.
+\----
+
+* [x] I understand the basics of AsciiDoc
+----
+
+The same text rendered out:
+
+= This is a heading
+== The more equal signs you add the smaller the headings get 
+=== This is useful for making chapters and subchapters within your documents 
+
+Leave an empty row to start a new paragraph. 
+
+* This is an unordered list
+. This is an ordered list 
+. It handles the numbers on its own! 
+** You can combine the two types together
+*** Also this is how you make nested lists
+- It even works with hyphons!
+
+*This* _is_ `an` #example# ^of^ b**as**ic ##form##atting. 
+
+* If you want another element to follow the same indentation as the text preceeding it, add a plus between them! 
+
++
+
+----
+Let's use this codeblock as an example.
+----
+
+* [x] I understand the basics of AsciiDoc
+
+== 4.4 GitHub 
+
+Platform which implements git, and many other features, including its own text editor.
+
+=== 4.4.1 GitHub text editor
+
+* Simple editor allowing for file editing
+* Docs as text compliant
+* Allows for previews of rendered text
+* Supports AsciiDoc
+
+=== 4.4.2 GitHub git implementation 
+
+* Can be used with a web UI or CLI
+
+== See also
+
+* https://git-scm.com/docs[Git documentation]
+* https://docs.asciidoctor.org/asciidoc/latest/[AsciiDoc Documentation]
+* https://github.com/[GitHub]
+

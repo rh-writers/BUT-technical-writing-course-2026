@@ -1,0 +1,9 @@
+=== 3.2.1 interacting with other writers
+
+When you have job as a technical writer you will have to comunicate with your coworkers.
+
+* while speaking with coworkers be polite
+* ask questions when you do not understand the subject you are writing about
+* while asking be direct 
+* when given some feedback do not make it personal
+* while giving feedback to coworkers be direct and objective while not insulting
