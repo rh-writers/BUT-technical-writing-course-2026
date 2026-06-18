@@ -1,0 +1,21 @@
+= Employment as a technical writer
+
+== Job market and opportunities
+
+* Average pay in Brno (2026): 55 000 - 70 000 Kč
+* Many tech companies regularly post open positions on major job portals
+* link:https://www.jobs.cz/prace/technical-writer/[Jobs.cz], link:https://cz.jooble.org/pr%C3%A1ce-technical-writer[Jooble]
+
+
+=== Common industries
+* Software development
+* Hardware and electronics
+
+== Career progression
+[cols="1,2", options="header"]
+|===
+| Role | Responsibility
+| Junior technical writer | Creating basic user guides, updating existing documentation.
+| Senior technical writer | Setting documentation strategy, mentoring juniors, toolchain management.
+|===
+

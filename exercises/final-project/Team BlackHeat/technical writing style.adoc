@@ -1,0 +1,52 @@
+= Technical writing style
+=== Purpose
+
+Used for translation of complex information into easily readable content. + 
+
+=== Style 
+
+* Brief and standardized +
+
+=== Language +
+
+* Simple, without jargon +
+
+=== Objectives
+
+==== Accessibility
+
+Documents should be readable by all readers: 
+
+ * Low levels of english +
+ * Dissabilities +
+
+
+==== Readability
+
+* Concise, consistent language +
+
+* Clear, consistent styling +
+
+* Short sentences +
+
+==== Findability
+
+===== External 
+
+* Relevance +
+* Focus on quality +
+* User experience +
+
+
+
+===== Internal
+
+* Table of contents +
+
+* Structured text +
+
+===== Titles
+
+* Clear, descriptive +
+* Goal oriented
+* Audience focused 

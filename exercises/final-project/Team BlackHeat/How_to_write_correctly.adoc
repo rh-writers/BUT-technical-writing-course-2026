@@ -1,0 +1,23 @@
+= How to write correctly
+
+== Minimalism
+* Don´t overcomplicate your texts. Minimalism means using as few words as you can to convey information.
+* Be careful about shortening your text too much, it still needs to convey the information correctly.
+* Tip for you - Avoid using adjectives where they are not needed to understand the infromation fully.
+
+== Language
+
+* Use the simplest words in your vocabulary.
+* Prioritize using active voice over passive voice, it gives more clarity to your text.
+
+== Style guides
+
+Microsoft writing style guide is considered the best for beginners. Other guides you can choose from:
+
+
+
+* link:https://learn.microsoft.com/en-us/style-guide/[*IBM Style*]
+* link:https://developers.google.com/style/[*SUSE Documentation Style Guide*]
+* link:https://www.ibm.com/docs/en/ibm-style/[*Apple Style Guide*]
+* link:https://developer.apple.com/design/human-interface-guidelines/[*Microsoft Writing Style Guide*] 
+* link:https://documentation.suse.com/[*Google Developer Documentation Style Guide*]

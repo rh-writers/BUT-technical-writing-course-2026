@@ -1,0 +1,45 @@
+= Essential skills
+== Writing skills
+Writing skills form the foundation of technical communication.
+
+=== Key writing skills 
+* Using precise language
+* Organizing information in a logical structure
+* Consistent terminology throughout the document
+* Adapting to the target audience
+* Following style guides and standards
+* Minimalism is key
+
+== Technical skills
+
+
+
+Technical knowledge enables accurate communication and effective collaboration with SMEs.
+
+=== Important technical skills
+
+* Operating system fundamentals
+* Networking
+* Software development principles
+* Command-line usage
+* Version control systems (Git)
+* Documentation markup languages (AsciiDoc, Markdown)
+
+== Research and Analytical Skills
+Accurate documentation depends on reliable information. Research skills help technical writers gather information from multiple sources.
+
+=== Research activities
+
+* Reviewing technical specifications
+* Consulting SMEs
+* Comparing information from multiple sources
+
+== Communication and Collaboration Skills
+
+Documentation projects often involve cooperation with others. Effective communication improves the quality and consistency of documentation.
+
+=== Communication skills
+
+* Conducting interviews with SMEs
+* Gathering and incorporating feedback
+* Participating in content reviews
