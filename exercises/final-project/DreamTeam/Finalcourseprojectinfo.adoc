@@ -1,0 +1,10 @@
+= Final course project
+
+== Considerations
+=== Target audience
+* Anyone who wants to become a technical writer
+
+=== Tone
+* Neutral
+* Imperative
+* Without emotions

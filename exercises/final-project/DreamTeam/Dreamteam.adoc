@@ -1,0 +1,40 @@
+= Dream team project
+
+== Roles & Members
+
+include::Roles&Members.adoc[]
+
+== Final course project info
+
+include::Finalcourseprojectinfo.adoc[]
+
+= How to become a technical writer step-by-step
+== Avoid these common mistakes:
+* **Overuse of passive voice:** Mainly aim for the active voice to make your documentation more direct and clear.
+* **Self-referential text:** Avoid meta-phrases like "This document describes..." or "In this section, I will show..."
+* **Anthropomorphism:** Do not attribute human emotions or behaviors to software (avoid phrases like "the program became confused").
+* **Inconsistent formatting:** Watch out for formatting consistency throughout the document.
+* **Tutorial vs. Technical writing:** Differentiate between an educational tutorial and professional tech writing.
+* **Colorful analogies:** Avoid using colorful analogies.
+* **Informal language:** Avoid informal slang and curse words.
+* **Pronouns & Tone:** Avoid first-person plural or conversational phrasing like "Let's use...". Use direct, imperative instructions in the 2nd person.
+* **Stating the objective:** Reverse the sentence structure. For example, "Use command XY to [achieve goal]" is better structured as "To [achieve goal], use command XY."
+
+== Follow these human attributes (Soft skills):
+* **Be open-minded**
+* **Be accurate**
+* **Write concisely**
+* **Write in a beginner-friendly style**
+* **Be flexible and adaptable**
+* **Have a strong team spirit**
+* **Be communicative**
+* **Seek guidance from others**
+
+== Objectives of technical writing style:
+* **Accessibility:** Comprehensible for all users.
+* **Readability:** Structured to allow users to understand the text quickly.
+* **Minimalism:** Reduction of fluff.
+* **Modularity:** Broken down into small blocks (multiple parts).
+* **Reusability:** Reuse of steps for future purposes.
+* **Research:** Do research before writing technical documentation.
+* **Consistency:** Stick to one writing style (link:https://learn.microsoft.com/en-us/style-guide/welcome/[Microsoft Writing Style Guide], link:https://documentation.suse.com/style/current[SUSE Documentation Style Guide]).
