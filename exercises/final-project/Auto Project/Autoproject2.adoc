@@ -1,0 +1,33 @@
+== 3. Writing skills:
+
+Technical writer should aim for straight forward documentation, without excess fluff, but keeping the text accurate, clear, and effective (ACE)
+
+*3.1 Utilization:*
+
+- clear language
+- consistent terminology
+- short sentences
+- logical structure
+
+*3.2 Forms of tech writing:*
+
+  . Manuals, guides
+  . Solutions or troubleshooting
+  . Patch notes, release notes
+
+*3.3 Formatting:*
+
+Follow a specific style guide so your documentation is:
+
+- reliable
+- consistent
+- scannable
+- findable
+
+*3.4 Style guides:*
+
+Examples:
+
+. https://support.apple.com/guide/applestyleguide/welcome/web[Apple style guide]
+. https://developers.google.com/tech-writing/resources[Google style guide]
+. https://learn.microsoft.com/en-us/[Microsoft style guide]

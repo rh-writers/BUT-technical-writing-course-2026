@@ -1,0 +1,39 @@
+== 4. Communication and research:
+
+The goal is to gather accurate information and share it clearly with the intended audience in mind (Adam). Good communication helps users understand documentation, while research ensures the information is reliable and useful :
+
+- critical thinking
+- attention to detail
+- understanding of the target audience
+
+*4.1 Procedure:*
+
+. identify the purpose of the documentation
+. research reliable sources
+. verify information from multiple sources
+. organize findings
+. communicate information clearly and concisely
+. review and update content regularly
+
+*4.2 Research*
+
+Use trusted sources such as:
+
+- official documentation
+- technical articles
+- academic publications
+- industry standards
+
+
+== 5. Tools:
+
+- for writing use https://code.visualstudio.com/[Visual studio code], https://asciidoc.org/[Asciidoc] or https://www.markdownguide.org/[Markdown]
+- 
+
+== 6. Where not to use technical writing
+
+- marketing
+- culinary industry
+- sports
+- entertainment
+- social work
