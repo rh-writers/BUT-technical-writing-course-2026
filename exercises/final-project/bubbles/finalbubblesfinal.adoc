@@ -1,0 +1,4 @@
+include::inro.adoc[]
+include::softskills[]
+include::hardskils[]
+include::tools[]
