@@ -1,0 +1,6 @@
+To make a living in modern tech documentation, you must master the industry standard tools.
+
+* **Lightweight Markup:** AsciiDoc, Markdown.
+* **Static Site Generators (SSGs):** Antora (optimized for AsciiDoc), Docusaurus.
+* **Version Control:** Git, GitHub, GitLab.
+* **API Documentation:** OpenAPI Specification (OAS), Swagger.
