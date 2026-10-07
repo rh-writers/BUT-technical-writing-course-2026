@@ -17,8 +17,7 @@ The goal of technical writers is to *help readers achive their goals*, by creati
 . learn documentation tools
 . build a portfolio
 
-image::../final-project/diagram.png[width=600 height=600]
-https://scientyficworld.org/what-is-technical-writing/[Obrázek-diagram]
+image::diagram.png[width=600 height=600]
 
 == 3. Writing skills:
 
@@ -86,7 +85,7 @@ Use trusted sources such as:
 == 5. Tools:
 
 - for writing use https://code.visualstudio.com/[Visual studio code], https://asciidoc.org/[Asciidoc] or https://www.markdownguide.org/[Markdown]
-- 
+-
 
 == 6. Where not to use technical writing
 

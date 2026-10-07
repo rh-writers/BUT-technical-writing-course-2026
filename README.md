@@ -63,7 +63,7 @@ The lecture overview is only tentative.
 * Large language models and generative tools
 * [Slides from Day 5 tooling](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/slides/2026_BUT%20Tooling%20-%20Day%205.pdf)
 * [Slides from Day 5 AI](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/slides/2026%20LLM%20and%20generative%20AI%20-%20VUT%202026.pdf)
-  
+
 
 ### 6. Teamwork:
 * Roleplay of real-life documentation usecases
@@ -76,6 +76,9 @@ The lecture overview is only tentative.
 * Team-based collaborative workshop emulating the work on a documentation task from the beginning till the end
 * [Slides from Day 7](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/slides/2026%20Day%207%20-%20Final%20Project%20%26%20Conclusion%20-%20BUT%202026.pdf)
 * Student final projects:
-  * TODO
-
-[Team Auto](https://github.com/rh-writers/BUT-technical-writing-course-2026/tree/Auto/exercises/final-project)
+  * [Team Auto](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/exercises/final-project/Auto%20Project/Autoproject.adoc)
+  * [Team Bubbles](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/exercises/final-project/bubbles/indexbubbles.adoc)
+  * [DreamTeam](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/exercises/final-project/DreamTeam/Dreamteam.adoc)
+  * [Team BlackHeat](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/exercises/final-project/Team%20BlackHeat/Become_technical_writer.adoc)
+  * [Team BlueShoe](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/exercises/final-project/Team%20BlueShoe/index-blueshoe.adoc)
+  * [Team BořekK](https://github.com/rh-writers/BUT-technical-writing-course-2026/blob/main/exercises/final-project/TeamBorekK/Borek-Kostl%C3%A1n-final1.adoc)
