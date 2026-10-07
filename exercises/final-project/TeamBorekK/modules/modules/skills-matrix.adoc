@@ -1,0 +1,11 @@
+AsciiDoc
+Success in technical writing requires a dual-focus skill set bridging communication and technical literacy.
+
+[cols="1,2", options="header"]
+|===
+| Skill Category | Specific Competencies
+| **Core Writing** | Audience analysis, editing, style guide compliance (e.g., Microsoft, Google).
+| **Technical Literacy** | Basic programming (Python/API structures), Git version control.
+| **Information Architecture** | Content modeling, taxonomy design, search engine optimization (SEO) for docs.
+|===
+
