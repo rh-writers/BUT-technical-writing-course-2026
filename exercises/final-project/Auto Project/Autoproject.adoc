@@ -1,0 +1,100 @@
+= Become a technical writer as a student
+
+The goal of technical writers is to *help readers achive their goals*, by creating *straightforward and easy to follow documentation* for a product. When creating a technical documentation, think about Adam (hopeless, stressed customer, who needs help).
+
+
+== 1. Prerequisites:
+  - educational foundation
+  - technical and tooling proficiency
+  - tendency to minimalism
+  - soft skills and communication
+
+
+== 2. Procedure:
+. learn the core skills (writing skills, technical understanding, research skills)
+. learn technical writing fundamentals
+. develop technical knowledge
+. learn documentation tools
+. build a portfolio
+
+image::../final-project/diagram.png[width=600 height=600]
+https://scientyficworld.org/what-is-technical-writing/[Obrázek-diagram]
+
+== 3. Writing skills:
+
+Technical writer should aim for straightforward documentation, without excess fluff, but keeping the text accurate, clear, and effective (ACE)
+
+*3.1 Utilization:*
+
+- clear language
+- consistent terminology
+- short sentences
+- logical structure
+
+*3.2 Forms of tech writing:*
+
+  . Manuals, guides
+  . Solutions or troubleshooting
+  . Patch notes, release notes
+
+*3.3 Formatting:*
+
+Follow a specific style guide so your documentation is:
+
+- reliable
+- consistent
+- scannable
+- findable
+
+*3.4 Style guides:*
+
+Examples:
+
+. https://support.apple.com/guide/applestyleguide/welcome/web[Apple style guide]
+. https://developers.google.com/tech-writing/resources[Google style guide]
+. https://learn.microsoft.com/en-us/[Microsoft style guide]
+
+
+
+== 4. Communication and research:
+
+The goal is to gather accurate information and share it clearly with the intended audience in mind (Adam). Good communication helps users understand documentation, while research ensures the information is reliable and useful :
+
+- critical thinking
+- attention to detail
+- understanding of the target audience
+
+*4.1 Procedure:*
+
+. identify the purpose of the documentation
+. research reliable sources
+. verify information from multiple sources
+. organize findings
+. communicate information clearly and concisely
+. review and update content regularly
+
+*4.2 Research*
+
+Use trusted sources such as:
+
+- official documentation
+- technical articles
+- academic publications
+- industry standards
+
+
+== 5. Tools:
+
+- for writing use https://code.visualstudio.com/[Visual studio code], https://asciidoc.org/[Asciidoc] or https://www.markdownguide.org/[Markdown]
+- 
+
+== 6. Where not to use technical writing
+
+- marketing
+- culinary industry
+- sports
+- entertainment
+- social work
+
+
+

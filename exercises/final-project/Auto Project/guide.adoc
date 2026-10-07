@@ -1,0 +1,70 @@
+== Procedure
+. Learn the core skills (writing skills, technical understanding, research skills)
+. Learn technical writing fundamentals
+. Develop technical knowledge
+. Learn documentation tools
+. Build a portfolio
+
+== Communication and Research
+
+The goal of communication and research is to gather accurate information and share it clearly with the intended audience. Good communication helps users understand documentation, while research ensures the information is reliable and useful :
+
+basic writing skills
+
+critical thinking
+
+attention to detail
+
+understanding of the target audience
+
+Procedure:
+
+identify the purpose of the documentation
+
+research reliable sources
+
+verify information from multiple sources
+
+organize findings
+
+communicate information clearly and concisely
+
+review and update content regularly
+
+Research:
+
+Use trusted sources such as:
+
+official documentation
+
+technical articles
+
+academic publications
+
+industry standards
+
+Communication:
+
+Focus on the reader's needs.
+
+Use:
+
+clear language
+
+consistent terminology
+
+short sentences
+
+logical structure
+
+Best practices:
+
+write for the user
+
+avoid unnecessary information
+
+verify facts before publishing
+
+maintain consistency
+
+keep documentation up to date

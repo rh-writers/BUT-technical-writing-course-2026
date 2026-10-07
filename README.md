@@ -78,3 +78,4 @@ The lecture overview is only tentative.
 * Student final projects:
   * TODO
 
+[Team Auto](https://github.com/rh-writers/BUT-technical-writing-course-2026/tree/Auto/exercises/final-project)
