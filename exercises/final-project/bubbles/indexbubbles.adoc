@@ -1,8 +1,8 @@
 == Guide to Technical Writing
 
-include::introbubbles.adoc[Introduction]
+include::introbubbles.adoc[]
 
-include::softskills.adoc[Soft skills]
+include::softskills.adoc[]
 
-include::hardskillsandtools.adoc[Hard skills and tools]
+include::hardskillsandtools.adoc[]
 
